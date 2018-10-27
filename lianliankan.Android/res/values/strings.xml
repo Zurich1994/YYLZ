@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, MainActivity!</string>
+    <string name="app_name">小游戏</string>
+    <string name="time">请点击继续或重新开始</string>
+    <string name="quit">退出</string>
+    <string name="sure_quit">确定取消添加好友？</string>
+    <string name="alert_dialog_ok">确定</string>
+    <string name="alert_dialog_cancel">取消</string>
+</resources>
